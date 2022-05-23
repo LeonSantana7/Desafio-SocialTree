@@ -1,0 +1,62 @@
+body{ 
+    background-color: #FAF7FD;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+  }
+
+main{
+    width: 619px;
+    margin: 0 auto;
+    text-align: center;
+}  
+
+.foto-insta{
+    margin: 60px;
+
+}  
+
+.foto-insta img{
+    width: 150px;
+    height: 150px;
+    border: solid 1px #BB99DD;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.foto-insta span{
+    display: block;
+    margin: 10px;
+    color: #BB99DD;
+    font-weight: 700;
+}
+
+ul{
+    padding-right: 100px;
+    padding-left: 100px;
+   margin-bottom: 30px;
+}
+ul li{
+    border: solid 1px #BB99DD;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    color: #BB99DD;
+    font-weight: 1000;
+
+}
+
+ul li:hover{
+    border: solid 3px blue;
+    transition: 0.5s;
+}
+
+
+.imagens img{
+    padding: 10px;
+}
+
+
+
+
+
+
